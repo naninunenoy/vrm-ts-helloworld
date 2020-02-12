@@ -1,0 +1,17 @@
+{
+  "name": "vrm-ts-helloworld",
+  "version": "0.0.0",
+  "description": "vrm-ts-helloworld",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.59",
+    "typescript": "^3.7.5"
+  }
+}

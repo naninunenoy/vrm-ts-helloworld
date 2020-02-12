@@ -1,0 +1,2 @@
+C:\Users\Yosuje\Development\web\FrontEnd\vrm-ts-helloworld\obj\Debug\vrm-ts-helloworld.njsprojAssemblyReference.cache
+C:\Users\Yosuje\Development\web\FrontEnd\vrm-ts-helloworld\bin\Microsoft.NodejsTools.WebRole.dll
