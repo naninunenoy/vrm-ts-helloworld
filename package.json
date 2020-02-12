@@ -13,5 +13,10 @@
   "devDependencies": {
     "@types/node": "^8.10.59",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^4.0.3",
+    "@babylonjs/loaders": "^4.0.3",
+    "babylon-vrm-loader": "^1.4.8"
   }
 }
