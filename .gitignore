@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/node,visualstudio
-# Edit at https://www.gitignore.io/?templates=node,visualstudio
+# Created by https://www.gitignore.io/api/node,react,visualstudio
+# Edit at https://www.gitignore.io/?templates=node,react,visualstudio
 
 ### Node ###
 # Logs
@@ -107,6 +107,19 @@ dist/
 # Temporary folders
 tmp/
 temp/
+
+### react ###
+.DS_*
+**/*.backup.*
+**/*.back.*
+
+node_modules
+
+*.sublime*
+
+psd
+thumb
+sketch
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -456,4 +469,4 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
-# End of https://www.gitignore.io/api/node,visualstudio
+# End of https://www.gitignore.io/api/node,react,visualstudio
