@@ -1,0 +1,9 @@
+{
+  "name": "vrm-ts-helloworld",
+  "version": "0.0.0",
+  "description": "vrm-ts-helloworld",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
